@@ -27,7 +27,13 @@ const fr: Translation = {
     one: 'Capture de la vue serveur ServerBox',
     two: 'Capture des graphiques ServerBox',
     three: 'Capture du terminal ServerBox',
-    four: 'Capture des outils ServerBox',
+    four: 'Capture du navigateur de fichiers ServerBox',
+  },
+  gallery: {
+    title: "Chaque écran, sur chaque appareil.",
+    subtitle:
+      "31 captures sur iPhone, iPad et macOS, repliées pour garder la page légère jusqu'à ce que vous les demandiez.",
+    count: "{count} captures",
   },
   features: {
     title: 'Un espace compact pour la maintenance quotidienne.',
@@ -65,20 +71,6 @@ const fr: Translation = {
       'ServerBox garde terminal, transfert de fichiers, services, santé matérielle et alertes dans le même flux.',
     installIosPrompt: '# iOS',
     installReleasePrompt: '# Android, Linux et Windows',
-    items: {
-      statusChart: 'Graphiques',
-      sshTerminal: 'Terminal SSH',
-      sftp: 'SFTP',
-      docker: 'Docker',
-      process: 'Processus',
-      systemd: 'Systemd',
-      smart: 'S.M.A.R.T',
-      gpu: 'GPU',
-      sensors: 'Capteurs',
-      push: 'Notifications',
-      homeWidget: 'Widget',
-      watchos: 'watchOS',
-    },
   },
   download: {
     title: 'Toutes les plateformes, toutes les sources.',

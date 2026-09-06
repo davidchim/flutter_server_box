@@ -27,7 +27,13 @@ const kr: Translation = {
     one: 'ServerBox 서버 개요 스크린샷',
     two: 'ServerBox 상태 차트 스크린샷',
     three: 'ServerBox 터미널 스크린샷',
-    four: 'ServerBox 도구 스크린샷',
+    four: 'ServerBox 파일 브라우저 스크린샷',
+  },
+  gallery: {
+    title: '모든 화면을, 모든 기기에서.',
+    subtitle:
+      'iPhone, iPad, macOS의 스크린샷 31장. 페이지를 가볍게 유지하기 위해 열기 전에는 불러오지 않습니다.',
+    count: '{count}장',
   },
   features: {
     title: '일상적인 서버 관리를 위한 컴팩트한 작업 공간.',
@@ -65,20 +71,6 @@ const kr: Translation = {
       'ServerBox는 터미널, 파일 전송, 서비스 점검, 하드웨어 상태, 기기 알림을 같은 흐름에 둡니다.',
     installIosPrompt: '# iOS',
     installReleasePrompt: '# Android, Linux, Windows',
-    items: {
-      statusChart: '상태 차트',
-      sshTerminal: 'SSH 터미널',
-      sftp: 'SFTP',
-      docker: 'Docker',
-      process: '프로세스',
-      systemd: 'Systemd',
-      smart: 'S.M.A.R.T',
-      gpu: 'GPU',
-      sensors: '센서',
-      push: '푸시',
-      homeWidget: '홈 위젯',
-      watchos: 'watchOS',
-    },
   },
   download: {
     title: '모든 플랫폼, 모든 배포 경로.',

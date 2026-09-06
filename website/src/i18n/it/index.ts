@@ -27,7 +27,13 @@ const it: Translation = {
     one: 'Screenshot panoramica server ServerBox',
     two: 'Screenshot grafici ServerBox',
     three: 'Screenshot terminale ServerBox',
-    four: 'Screenshot strumenti ServerBox',
+    four: 'Screenshot del browser file di ServerBox',
+  },
+  gallery: {
+    title: 'Ogni schermata, su ogni dispositivo.',
+    subtitle:
+      '31 screenshot su iPhone, iPad e macOS, richiusi per mantenere leggera la pagina finché non li apri.',
+    count: '{count} screenshot',
   },
   features: {
     title: 'Uno spazio compatto per la manutenzione quotidiana.',
@@ -65,20 +71,6 @@ const it: Translation = {
       'ServerBox tiene terminale, trasferimento file, servizi, salute hardware e avvisi nello stesso flusso.',
     installIosPrompt: '# iOS',
     installReleasePrompt: '# Android, Linux e Windows',
-    items: {
-      statusChart: 'Grafici',
-      sshTerminal: 'Terminale SSH',
-      sftp: 'SFTP',
-      docker: 'Docker',
-      process: 'Processi',
-      systemd: 'Systemd',
-      smart: 'S.M.A.R.T',
-      gpu: 'GPU',
-      sensors: 'Sensori',
-      push: 'Notifiche',
-      homeWidget: 'Widget',
-      watchos: 'watchOS',
-    },
   },
   download: {
     title: 'Ogni piattaforma, ogni sorgente.',
